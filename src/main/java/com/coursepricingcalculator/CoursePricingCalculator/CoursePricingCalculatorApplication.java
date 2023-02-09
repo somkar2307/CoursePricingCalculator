@@ -8,6 +8,7 @@ public class CoursePricingCalculatorApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CoursePricingCalculatorApplication.class, args);
+		//System.out.println("Hello World");
 	}
 
 }
