@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CoursePricingCalculatorApplication {
 
 	public static void main(String[] args) {
+		//Spring starter method
 		SpringApplication.run(CoursePricingCalculatorApplication.class, args);
 	}
 
